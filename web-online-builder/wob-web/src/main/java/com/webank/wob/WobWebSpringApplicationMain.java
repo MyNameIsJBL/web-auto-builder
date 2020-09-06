@@ -1,4 +1,4 @@
-package core;
+package com.webank.wob;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
