@@ -1,0 +1,6 @@
+rootProject.name = 'web-online-builder'
+include 'wob-core'
+include 'wob-base'
+include 'wob-repo'
+include 'wob-service'
+include 'wob-web'

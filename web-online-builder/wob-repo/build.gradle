@@ -1,0 +1,5 @@
+
+dependencies {
+    compile project (':wob-base')
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
